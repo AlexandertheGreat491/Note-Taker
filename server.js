@@ -16,6 +16,11 @@ app.get('/', (req, res) =>
     res.sendFile(path.join(__dirname, '/public/notes.html'))
 );
 
+//Route for the notes page
+app.get('/notes', (req, res) =>
+    res.sendFile(path.join(__dirname, '/public/notes.html'))
+);
+
 //listener for PORT. PORT connected successfully to the server.
 app.listen(PORT, () => {
     console.log(`API server now on port ${PORT}!`);
