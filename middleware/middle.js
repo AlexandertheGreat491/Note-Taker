@@ -6,6 +6,13 @@ const middle = (req, res, next) => {
             console.info(`${fgCyan}${req.method} request to ${req.path}`);
             break;
         }
-        case 'POST':
+        case 'POST': {
+            console.info(`${fgCyan}${req.method} request to ${req.path}`);
+            break;
+        }
+        default:
+            console.log(`${fgCyan}${req.method} request to ${req.path}`);
     }
-}
+
+    next();
+};
