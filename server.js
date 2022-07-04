@@ -8,9 +8,7 @@ const PORT = process.env.PORT || 3001;
 //Middleware that will parse the JSON & urlencoded form data.
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
-app.use(express.static('public'));
-
-
+app.use(express.static(_dirname));
 
 
 //listener for PORT. PORT connected successfully to the server.
