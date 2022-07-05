@@ -2,14 +2,7 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
-
-
+The goal of the project was to create a note taking application that would allow the user to create, save, and delete notes through the usage of Express.js. The problem that was solved was providing users with a browser based note taking application versus a desktop or mobile application. I learned how to use Express.js to write routes that would allow the front end and the back end of the app, as well as building the for browser use with Heroku. Additionally, I learned how to use my prior knowledge of HTML, CSS, and JavaScript to utilize Express.js and Heroku to create the Note-Taker app.
 
 ## Installation
 
