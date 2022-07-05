@@ -52,7 +52,10 @@ Collaborators:
 
 Tutorials and sources:
 
+[GeeksforGeeks](https://www.geeksforgeeks.org/how-to-make-changes-to-the-application-deployed-on-heroku/#:~:text=If%20your%20project%20is%20deployed,and%20deploy%20them%20to%20Heroku.)
+[Heroku Dev Center](https://devcenter.heroku.com/articles/heroku-cli)
 [Jest](https://jestjs.io/docs/getting-started)
+
 
 ## License
 
