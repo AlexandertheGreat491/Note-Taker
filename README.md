@@ -7,27 +7,46 @@ The goal of the project was to create a note taking application that would allow
 ## Installation
 
 Please use the following steps to install the Note-Taker app on your local computer:
+
 Step 1: Ensure that Node.js is properly installed.
+
 Step 2: Navigate to the [Public-GitHub-Repository](https://github.com/AlexandertheGreat491/Note-Taker.git) for this project and clone the code to your local computer.
+
 Step 3: Ensure that Heroku has been installed properly on your local computer using the 64-bit installer.
+
+Step 4: In your command line enter heroku --version into your command line to ensure that Heroku has been properly installed.
+
+Step 5: Use the command line to access your local server by entering: npm start.
+
+Step 6: Now that all of the installation steps have been completed, a developer would be ready to use this app.
 
 ## Usage
 
 The app can be used via the deployed Heroku link: (https://pristine-wind-cave-35232.herokuapp.com/)
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+Please review the below screenshots to get an idea of how the Note-Taker app is used:
+                                
+                                Homepage
 
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+
+                                Adding and saving a note
+
+
+
+                                Note deleted
+
+
+
+
+
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
+Collaborators:
 
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
 
-If you followed tutorials, include links to those here as well.
+Tutorials and sources:
+
 
 ## License
 
