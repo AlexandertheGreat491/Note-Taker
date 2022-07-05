@@ -33,6 +33,7 @@ Please review the below screenshots to get an idea of how the Note-Taker app is 
 
                                 Adding and saving a note
 
+![Note-Taker-Add-Note-Save-Note](https://user-images.githubusercontent.com/64184203/177412974-13d6a2a0-2a6b-4c36-8386-21897ad0f45f.jpg)
 
 
                                 Note deleted
