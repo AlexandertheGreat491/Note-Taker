@@ -1,3 +1,4 @@
+/*HTML and body styling*/
 html,
 body {
   height: 100%;
@@ -6,6 +7,7 @@ body {
   font-family: 'Oswald', sans-serif;
 }
 
+/*Styling for various classes*/
 .save-note {
   display: none;
 }
