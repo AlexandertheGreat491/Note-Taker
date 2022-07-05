@@ -27,6 +27,8 @@ The app can be used via the deployed Heroku link: (https://pristine-wind-cave-35
 Please review the below screenshots to get an idea of how the Note-Taker app is used:
                                 
                                 Homepage
+                                
+![Note-Taker-Homepage](https://user-images.githubusercontent.com/64184203/177411720-73a54010-9478-427c-af33-0704feec6208.jpg)
 
 
                                 Adding and saving a note
