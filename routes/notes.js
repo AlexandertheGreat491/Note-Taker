@@ -6,12 +6,12 @@ const {
   writeToFile,
 } = require("../helpers/fsUtils");
 
-// GET Route for retrieving all the notes
+// GET Route retrieving all notes
 notes.get("/", (req, res) => {
   readFromFile("./db/db.json").then((data) => res.json(JSON.parse(data)));
 });
 
-// GET Route for a specific note
+// GET Route for a particular note
 notes.get("/:id", (req, res) => {
   const noteId = req.params.id;
   readFromFile("./db/db.json")
@@ -24,7 +24,7 @@ notes.get("/:id", (req, res) => {
     });
 });
 
-// DELETE Route for a specific note
+// DELETE Route for a particular note
 notes.delete("/:id", (req, res) => {
   const noteId = req.params.id;
   readFromFile("./db/db.json")
@@ -41,7 +41,7 @@ notes.delete("/:id", (req, res) => {
     });
 });
 
-// POST Route for a new UX/UI note
+// POST Route for a new note
 notes.post("/", (req, res) => {
   console.log(req.body);
 
