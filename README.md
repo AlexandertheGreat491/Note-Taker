@@ -38,6 +38,7 @@ Please review the below screenshots to get an idea of how the Note-Taker app is 
 
                                 Note deleted
 
+![Note-Taker-Note-Deleted](https://user-images.githubusercontent.com/64184203/177413492-793349ff-2cec-4f44-a096-bee405ed5824.jpg)
 
 
 
