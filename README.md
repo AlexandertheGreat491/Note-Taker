@@ -48,6 +48,7 @@ Please review the below screenshots to get an idea of how the Note-Taker app is 
 
 Collaborators:
 
+[Alex Van Dyke](https://github.com/AlexandertheGreat491)
 
 Tutorials and sources:
 
