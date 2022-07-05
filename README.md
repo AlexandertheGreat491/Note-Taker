@@ -6,7 +6,10 @@ The goal of the project was to create a note taking application that would allow
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+Please use the following steps to install the Note-Taker app on your local computer:
+Step 1: Ensure that Node.js is properly installed.
+Step 2: Navigate to the [Public-GitHub-Repository](https://github.com/AlexandertheGreat491/Note-Taker.git) for this project and clone the code to your local computer.
+Step 3: Ensure that Heroku has been installed properly on your local computer using the 64-bit installer.
 
 ## Usage
 
