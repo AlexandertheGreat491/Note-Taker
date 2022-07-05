@@ -52,6 +52,7 @@ Collaborators:
 
 Tutorials and sources:
 
+[Jest](https://jestjs.io/docs/getting-started)
 
 ## License
 
